@@ -33,10 +33,11 @@ Este é um projeto simples de **Jogo da Velha** (ou **Tic-Tac-Toe**) implementad
 
 ```plaintext
 .
+└── README.md            # Este arquivo de README                  
 ├── index.html           # Estrutura HTML do Jogo
-├── style.css            # Arquivo CSS para estilização
 ├── script.js            # Lógica JavaScript para o jogo
-└── README.md            # Este arquivo de README
+├── style.css            # Arquivo CSS para estilização
+
 ```
 
 
